@@ -46,7 +46,7 @@
 				}
 			],
 			"AuthenticationOptions": {
-				"AuthenticationProviderKey": "Bearer"
+				"AuthenticationProviderKey": "Bearer",
 				"AllowedScopes": ["processing112.read"]
 				,
 				"RouteClaimsRequirment": {
