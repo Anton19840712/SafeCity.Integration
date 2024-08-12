@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeCity.Gateway.Authentication", "SafeCity.Gateway.Authentication\SafeCity.Gateway.Authentication.csproj", "{3C60D418-BA67-492D-8E9A-00C6E0D4DDDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeCity.Gateway.Business", "SafeCity.Gateway.Business\SafeCity.Gateway.Business.csproj", "{4BFB0F8E-6B6A-404C-8B9B-CE03505449E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeCity.Gateway.OcelotConfiguration", "SafeCity.Gateway.OcelotConfiguration\SafeCity.Gateway.OcelotConfiguration.csproj", "{37A16962-B642-4DEF-8BF4-32E3CDF8443E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeCity.Gateway.Government", "SafeCity.Gateway.Government\SafeCity.Gateway.Government.csproj", "{DF3EAEDC-07CD-4CFC-A1B3-844EC89DCCF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeCity.Gateway.JwtConfiguration", "SafeCity.Gateway.JwtConfiguration\SafeCity.Gateway.JwtConfiguration.csproj", "{C94D2C16-8EB8-4CD4-9F63-AA87CB05095D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeCity.Gateway.Processing112", "SafeCity.Gateway.Processing112\SafeCity.Gateway.Processing112.csproj", "{E7534A77-F467-4ADD-913C-19BA0FCFF92F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C60D418-BA67-492D-8E9A-00C6E0D4DDDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C60D418-BA67-492D-8E9A-00C6E0D4DDDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C60D418-BA67-492D-8E9A-00C6E0D4DDDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C60D418-BA67-492D-8E9A-00C6E0D4DDDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BFB0F8E-6B6A-404C-8B9B-CE03505449E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BFB0F8E-6B6A-404C-8B9B-CE03505449E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BFB0F8E-6B6A-404C-8B9B-CE03505449E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BFB0F8E-6B6A-404C-8B9B-CE03505449E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A16962-B642-4DEF-8BF4-32E3CDF8443E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A16962-B642-4DEF-8BF4-32E3CDF8443E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A16962-B642-4DEF-8BF4-32E3CDF8443E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A16962-B642-4DEF-8BF4-32E3CDF8443E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF3EAEDC-07CD-4CFC-A1B3-844EC89DCCF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3EAEDC-07CD-4CFC-A1B3-844EC89DCCF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3EAEDC-07CD-4CFC-A1B3-844EC89DCCF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3EAEDC-07CD-4CFC-A1B3-844EC89DCCF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C94D2C16-8EB8-4CD4-9F63-AA87CB05095D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94D2C16-8EB8-4CD4-9F63-AA87CB05095D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94D2C16-8EB8-4CD4-9F63-AA87CB05095D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94D2C16-8EB8-4CD4-9F63-AA87CB05095D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7534A77-F467-4ADD-913C-19BA0FCFF92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7534A77-F467-4ADD-913C-19BA0FCFF92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7534A77-F467-4ADD-913C-19BA0FCFF92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7534A77-F467-4ADD-913C-19BA0FCFF92F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E8AC95F-4FD5-4ABF-88D9-E92E95E67EAD}
+	EndGlobalSection
+EndGlobal

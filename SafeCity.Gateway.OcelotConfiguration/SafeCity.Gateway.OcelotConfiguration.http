@@ -1,0 +1,6 @@
+@SafeCity.Gateway.OcelotConfiguration_HostAddress = http://localhost:5059
+
+GET {{SafeCity.Gateway.OcelotConfiguration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

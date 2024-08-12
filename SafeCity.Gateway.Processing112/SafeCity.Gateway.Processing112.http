@@ -1,0 +1,6 @@
+@SafeCity.Gateway.Processing112_HostAddress = http://localhost:5074
+
+GET {{SafeCity.Gateway.Processing112_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

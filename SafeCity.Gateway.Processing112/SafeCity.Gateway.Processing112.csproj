@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SafeCity.Gateway.Authentication\SafeCity.Gateway.Authentication.csproj" />
+    <ProjectReference Include="..\SafeCity.Gateway.Business\SafeCity.Gateway.Business.csproj" />
+    <ProjectReference Include="..\SafeCity.Gateway.JwtConfiguration\SafeCity.Gateway.JwtConfiguration.csproj" />
+  </ItemGroup>
+
+</Project>

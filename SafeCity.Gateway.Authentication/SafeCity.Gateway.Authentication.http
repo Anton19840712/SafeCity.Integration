@@ -1,0 +1,6 @@
+@SafeCity.Gateway.Authentication_HostAddress = http://localhost:5145
+
+GET {{SafeCity.Gateway.Authentication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
